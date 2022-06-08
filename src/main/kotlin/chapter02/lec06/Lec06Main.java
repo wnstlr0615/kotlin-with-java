@@ -1,4 +1,4 @@
-package chapter02.lect06;
+package chapter02.lec06;
 
 import java.util.Arrays;
 import java.util.List;

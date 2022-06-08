@@ -1,4 +1,4 @@
-package chapter02.lect06
+package chapter02.lec06
 
 fun main(){
     //= 1. for-each =//
