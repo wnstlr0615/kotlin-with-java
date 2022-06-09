@@ -21,7 +21,7 @@ private fun moveSomething(movable: Movable){
 
 //= 1. static 함수와 변수  =//
 
-class Person private constructor(
+class Person(
     var name: String,
     var age: Int = 1
 ){
